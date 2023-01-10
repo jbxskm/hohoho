@@ -1,1 +1,1 @@
-
+When I took this from replit, I thought I could make this into a github.io website and when my school blocked it I could change the website link. Then I tried to make it into a html5.Both of these things I couldn't do. I didnt know what I was doing and I'm gonna delete this.
